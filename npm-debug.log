@@ -1,0 +1,36 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'shrinkwrap' ]
+2 info using npm@3.8.6
+3 info using node@v6.0.0
+4 verbose stack Error: Problems were encountered
+4 verbose stack Please correct and try again.
+4 verbose stack extraneous: browser-sync@2.12.5 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/browser-sync
+4 verbose stack extraneous: gulp@3.9.1 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp
+4 verbose stack extraneous: gulp-jshint@2.0.0 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp-jshint
+4 verbose stack extraneous: gulp-stylus@2.3.1 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp-stylus
+4 verbose stack extraneous: jshint@2.9.2 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/jshint
+4 verbose stack     at shrinkwrap_ (/usr/local/lib/node_modules/npm/lib/shrinkwrap.js:101:15)
+4 verbose stack     at /usr/local/lib/node_modules/npm/lib/shrinkwrap.js:36:5
+4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/iferr/index.js:13:50
+4 verbose stack     at /usr/local/lib/node_modules/npm/lib/install/deps.js:121:5
+4 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+4 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+4 verbose stack     at /usr/local/lib/node_modules/npm/lib/install/deps.js:121:5
+4 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+5 verbose cwd /Users/grandcircus18/Desktop/seat-res-lab
+6 error Darwin 15.4.0
+7 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "shrinkwrap"
+8 error node v6.0.0
+9 error npm  v3.8.6
+10 error Problems were encountered
+10 error Please correct and try again.
+10 error extraneous: browser-sync@2.12.5 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/browser-sync
+10 error extraneous: gulp@3.9.1 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp
+10 error extraneous: gulp-jshint@2.0.0 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp-jshint
+10 error extraneous: gulp-stylus@2.3.1 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/gulp-stylus
+10 error extraneous: jshint@2.9.2 /Users/grandcircus18/Desktop/seat-res-lab/node_modules/jshint
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]
